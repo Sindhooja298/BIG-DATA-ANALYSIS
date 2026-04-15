@@ -29,3 +29,11 @@ Big Data Analysis is useful in many real-life situations. In business, companies
 The final results of the project are shown using graphs like bar charts, line charts, and pie charts. These visualizations make it easy to understand the data and explain the results to others.
 
 In conclusion, this project shows how we can take raw data and turn it into useful information. It helps in learning important skills like data cleaning, analysis, and visualization. These skills are very important in today’s world where data is growing rapidly. This project also helps us understand how data analysis is used in real-world applications.
+
+OUTPUT:
+
+<img width="1231" height="640" alt="Image" src="https://github.com/user-attachments/assets/1bb50ea9-782a-429b-ae91-ba190b5f64e4" />
+
+<img width="1185" height="849" alt="Image" src="https://github.com/user-attachments/assets/eff0262c-cc56-4652-808e-25278fb9f8ad" />
+
+<img width="906" height="653" alt="Image" src="https://github.com/user-attachments/assets/3272377e-79a0-4d74-9195-877396d21f14" />
