@@ -32,8 +32,8 @@ In conclusion, this project shows how we can take raw data and turn it into usef
 
 OUTPUT:
 
-<img width="1231" height="640" alt="Image" src="https://github.com/user-attachments/assets/1bb50ea9-782a-429b-ae91-ba190b5f64e4" />
+<img width="908" height="627" alt="Image" src="https://github.com/user-attachments/assets/62181db6-d05c-4e84-9da5-67c04f0ed2d8" />
 
-<img width="1185" height="849" alt="Image" src="https://github.com/user-attachments/assets/eff0262c-cc56-4652-808e-25278fb9f8ad" />
+<img width="906" height="653" alt="Image" src="https://github.com/user-attachments/assets/ae55d608-f09d-40c9-b542-ad581131c139" />
 
-<img width="906" height="653" alt="Image" src="https://github.com/user-attachments/assets/3272377e-79a0-4d74-9195-877396d21f14" />
+<img width="1185" height="849" alt="Image" src="https://github.com/user-attachments/assets/490453e2-9fa1-4888-831f-fff8206f7216" />
